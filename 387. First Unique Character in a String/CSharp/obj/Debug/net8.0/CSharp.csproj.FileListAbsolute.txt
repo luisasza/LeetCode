@@ -1,0 +1,14 @@
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\bin\Debug\net8.0\CSharp.exe
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\bin\Debug\net8.0\CSharp.deps.json
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\bin\Debug\net8.0\CSharp.dll
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\bin\Debug\net8.0\CSharp.pdb
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\CSharp.dll
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\CSharp.pdb
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+C:\VSCODE\LeetCode\387. First Unique Character in a String v1\CSharp\obj\Debug\net8.0\ref\CSharp.dll
